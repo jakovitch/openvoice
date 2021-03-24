@@ -6,7 +6,9 @@ To personalize OpenVoice you need to change some JS files.
 You can use a text editor, for example Notepad++.
 
 After personalization, check your code. Here two handy tools:
+
 **JS Beautifer**: [Press here](https://beautifier.io/)
+
 **JS Validator**: [Press here](https://esprima.org/demo/validate.html)
 
 ### properties.js
