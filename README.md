@@ -7,9 +7,9 @@ You can use a text editor, for example Notepad++.
 
 After personalization, check your code. Here two handy tools:
 
-**JS Beautifer**: (https://beautifier.io/)
+**JS Beautifer**: https://beautifier.io/
 
-**JS Validator**: (https://esprima.org/demo/validate.html)
+**JS Validator**: https://esprima.org/demo/validate.html
 
 ### properties.js
 You will find this at ***/assets/js/properties.js**, and you had to change some properties:
