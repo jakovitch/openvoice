@@ -1,8 +1,15 @@
-# Welcome!
+# Welcome! to OpenVoice 🎙
 OpenVoice is a painless method to host a podcast on your website without PHP, Ruby, Python or other difficult procedures. You have only to change some files and you are ready to host your podcast. 
 
-# Customize OpenVoice
-## properties.js
+## How to: customize OpenVoice
+To personalize OpenVoice you need to change some JS files.
+You can use a text editor, for example Notepad++.
+
+After personalization, check your code. Here two handy tools:
+**JS Beautifer**: [Press here](https://beautifier.io/)
+**JS Validator**: [Press here](https://esprima.org/demo/validate.html)
+
+### properties.js
 You will find this at ***/assets/js/properties.js**, and you had to change some properties:
 * **title**: the name of your podcast, it will be used in many occurencies.
 * **desc**: the description of your podcast, it will published on the homepgage.
@@ -12,7 +19,7 @@ After these setting, you will find the external links, each "social" has a:
 * **enabled** property, that enable the button or not.
 * **href** property, here you need to paste the link.
 
-## tracklist.js
+### tracklist.js
 This file contains your episodes, it is in ***/assets/js/tracklist.js***, for every track you need to specify:
 * **name**: the title of your episode, it will showed in the player.
 * **desc**: the description, for example what you will talk about.
